@@ -56,16 +56,10 @@
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a target="_blank" href="https://twitter.com/AshutoshD07"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
-    </td>
-    <td align='center' width="60">
         <a target="_blank" href="https://www.instagram.com/_edualbuq_/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
     <td align='center' width="60">
         <a target="_blank" href="https://www.linkedin.com/in/daniel-verissimo/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
-    </td>
-    <td align='center' width="70">
-       <a href="https://www.youtube.com/@Dandan.tutoriais" target="_blank"><img alt="Youtube" title="Youtube" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/></a>
     </td>
     <td align='center' width="65">
        <a href = "mailto:eduardoalbuquerque3021@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank"></a>
