@@ -38,17 +38,17 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVerissimo1&theme=midnight-purple&hide_border=true&layout=compact" width="50%" alt="DanielVerissimo1 github-readme-stats"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoskei&theme=midnight-purple&hide_border=true&layout=compact" width="50%" alt="Eduardoskei github-readme-stats"/> 
 </p>
 
 
 <p align="center">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=DanielVerissimo1&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="DanielVerissimo1 github-readme-stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DanielVerissimo1&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="DanielVerissimo1 github-readme-stats"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Eduardoskei&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="Eduardoskei github-readme-stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Eduardoskei&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Eduardoskei github-readme-stats"/>
 </p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielVerissimo1&bg_color=000000&color=8d43e2&line=8d43e2&point=8d43e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eduardoskei&bg_color=000000&color=8d43e2&line=8d43e2&point=8d43e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align='center'><i>Redes Sociais</i></h3>
 <div align='center'>
