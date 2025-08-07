@@ -44,7 +44,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Eduardoskei&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="Eduardoskei github-readme-stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Eduardoskei&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Eduardoskei&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Eduardoskei github-readme-stats"/>
 </p>
 
 
